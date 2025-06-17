@@ -1,8 +1,6 @@
 # Virtualisation Projects Portfolio
 **Hands-on virtualisation labs demonstrating hypervisor management, network virtualisation, and firewall configuration**
 
----
-
 ## Projects Overview
 
 This repository contains practical virtualisation projects implementing hypervisor technologies, firewall configuration, and network services. Each project demonstrates hands-on configuration of virtualisation and security technologies.
